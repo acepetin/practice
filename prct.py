@@ -240,3 +240,12 @@ print('change')
 
 #Большие буквы меньше всех малых
 #Цифры меньше букв(и малых и больших)
+
+
+#git add .
+#git commit -m "fourth commit"
+#git push
+# ^
+# |
+# v
+#git pull
